@@ -1,3 +1,3 @@
-gcoud services enable run.googleapis.com
-gcoud services enable cloudbuild.googleapis.com
-gcoud services enable  artifatregistry.googleapis.com
+gcloud services enable run.googleapis.com
+gcloud services enable cloudbuild.googleapis.com
+gcloud services enable artifatregistry.googleapis.com
